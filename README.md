@@ -3,7 +3,7 @@
 Welcome to my first project!! I will be building a cyber home lab.
 This repository will document my journey from beginner to experienced inshallah.
 
-## Goals
+# Goals
 - Learn Linux
 - Learn how to use VirtualBox
 - Learn Networking basics
