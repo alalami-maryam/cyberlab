@@ -1,9 +1,11 @@
-I started by downloading Oracle's Virtual Box which is an opensource operating system. 
-We can download virtual machines in it. The machines we will download are Kali Linux and Ubuntu.
+I started by downloading Oracle's Virtual Box which is which is an open-source virtualization software. 
+VirtualBox allows me to run multiple operating systems (virtual machines) on my computer without affecting 
+my main operating system.. 
+Using VirtualBox, I can create and run virtual machines such as Kali Linux, Ubuntu, and Windows.
 
 I used Kali because it is an open-source operating system mainly used for penetration testing and digital forensics. 
 
-I created the VM by downloading the extension pack of Kali, then uploaded it onto VirtualBox. 
+I downloaded the Kali Linux ISO image and attached it to a new VirtualBox virtual machine to install the operating system. 
 Then, I started the machine and finished setting it up. 
 
 The first command I ran on the terminal of my Kali system was (sudo apt update). 
