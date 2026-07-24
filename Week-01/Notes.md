@@ -36,7 +36,7 @@ Then I was able to learn the basic commands which included:
 - nano (use Nano text editor)
 - cat (display the contents of the file)
 
-![image alt] {https://github.com/alalamimaryam/cyberlab/blob/fa9668ec964ef4c7a7d7d861166491af65dbfbaf/Running%20Simple%20Linux%20Commands.png}
+![Running Simple Linux Commands](Running%20Simple%20Linux%20Commands.png)
 
 
 ## Challenges
