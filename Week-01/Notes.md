@@ -36,8 +36,7 @@ Then I was able to learn the basic commands which included:
 - nano (use Nano text editor)
 - cat (display the contents of the file)
 
-![Running Simple Linux Commands](Running%20Simple%20Linux%20Commands.png)
-
+![Running Simple Linux Commands](running-simple-linux-commands.png)
 
 ## Challenges
 Some of the challenges I have faced this week include: 
