@@ -8,7 +8,7 @@ What is Kali Linux?
 How to download and install Kali Linux.
 How VirtualBox helps in creating a safe environment to gain hands on experience with new operating systems.
 
-
+![image alt] (https://github.com/alalami-maryam/cyberlab/blob/fa9668ec964ef4c7a7d7d861166491af65dbfbaf/Running%20Simple%20Linux%20Commands.png)
 ## Hands On Work
 
 I started by downloading Oracle's Virtual Box which is which is an open-source virtualization software. 
