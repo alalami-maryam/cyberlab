@@ -1,3 +1,16 @@
+##Objectives
+- Download VirtualBox, Kali Linux, and Ubuntu
+- Learn the basic Linux commands
+- Understand what each virtual machine is used for
+
+##Concepts Learned
+What is Kali Linux?
+How to download and install Kali Linux.
+How VirtualBox helps in creating a safe environment to gain hands on experience with new operating systems.
+
+
+##Hands On Work
+
 I started by downloading Oracle's Virtual Box which is which is an open-source virtualization software. 
 VirtualBox allows me to run multiple operating systems (virtual machines) on my computer without affecting 
 my main operating system.. 
@@ -23,3 +36,10 @@ Then I was able to learn the basic commands which included:
 - touch (create file)
 - nano (use Nano text editor)
 - cat (display the contents of the file)
+
+
+##Challenges
+Some of the challenges I have faced this week include: 
+- Waiting for Kali to install.
+- Installing the update of Kali.
+- Understanding what each prompt meant and how it is used.
