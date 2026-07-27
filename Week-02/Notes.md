@@ -19,11 +19,13 @@ I also practised searching from different directories using the find command.
 Finally, I ended the lab by running the history command, which shows all the commands I have used in the terminal on my Kali VM.
 
 ## Commands
-find . -type f	      Finds all files in the current directory and its subdirectories.
-find . -type d	      Finds all directories.
-find . -empty	        Finds empty files and directories.
-find . -size +1M	    Finds files larger than 1 MB.
-find . -iname "*.txt"	Finds .txt files without caring about uppercase/lowercase letters.
+| Command | Description |
+|---------|-------------|
+| `find . -type f` | Finds all files in the current directory and its subdirectories. |
+| `find . -type d` | Finds all directories. |
+| `find . -empty` | Finds empty files and directories. |
+| `find . -size +1M` | Finds files larger than 1 MB. |
+| `find . -iname "*.txt"` | Finds `.txt` files without caring about uppercase or lowercase letters. |
 
 ## Challenges
 Some of the challenges I have faced this week include: 
