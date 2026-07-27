@@ -5,7 +5,9 @@
 
 
 ## Concepts Learned
-n Linux, . means the current directory, .. means the parent directory, and ~ represents your home directory, no matter where you are.
+In Linux, . means the current directory, .. means the parent directory, and ~ represents your home directory, no matter where you are.
+
+You can only use the find command for the current directory, you can not be in the home directory and search. You can also delete empty directories using the rmdir command. If the directory is not empty you use rm -r directoryname.
 
 ## Hands On Work
 I started by running the same commands I learned last week. pwd, ls, ls -la, and touch.
@@ -20,4 +22,4 @@ Finally, I ended the lab by running the history command which shows all commands
 ## Challenges
 Some of the challenges I have faced this week include: 
 - Understanding why . is used when searching with the find command and how it tells Linux to begin searching from the current directory.
-
+- Telling the difference between the command that deletes files and the one that deletes directories.
