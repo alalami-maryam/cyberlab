@@ -4,9 +4,13 @@
 - Understand what each virtual machine is used for
 
 ## Concepts Learned
-What is Kali Linux?
-How to download and install Kali Linux.
-How VirtualBox helps in creating a safe environment to gain hands on experience with new operating systems.
+### What is VirtualBox?
+
+Oracle VirtualBox is free, open-source virtualisation software that allows multiple operating systems to run on a single physical computer. It provides a safe environment to learn, experiment, and practise without affecting the host operating system.
+
+### What is Kali Linux?
+
+Kali Linux is a Debian-based Linux distribution designed for penetration testing, digital forensics, vulnerability assessment, and cybersecurity research. It includes hundreds of security tools that are commonly used by cybersecurity professionals.
 
 ## Hands On Work
 
@@ -39,6 +43,7 @@ Then I was able to learn the basic commands which included:
 
 ## Challenges
 Some of the challenges I have faced this week include: 
-- Waiting for Kali to install.
-- Installing the update of Kali.
-- Understanding what each prompt meant and how it is used.
+- Waiting for Kali Linux to finish installing.
+- Learning what each Linux command does.
+- Understanding how the Linux terminal works.
+- Becoming familiar with VirtualBox and virtual machines.
