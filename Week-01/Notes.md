@@ -1,5 +1,5 @@
 ## Objectives
-- Download VirtualBox, Kali Linux, and Ubuntu
+- Download VirtualBox, Kali Linux
 - Learn the basic Linux commands
 - Understand what each virtual machine is used for
 
